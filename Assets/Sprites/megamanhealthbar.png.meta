@@ -1,0 +1,1013 @@
+fileFormatVersion: 2
+guid: 779b1ebcd888f0045a4f7a70b37c30b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5471557289360738008
+    second: megamanhealthbar_0
+  - first:
+      213: 2404887676222359423
+    second: megamanhealthbar_1
+  - first:
+      213: 8751709727003436293
+    second: megamanhealthbar_2
+  - first:
+      213: -227513141338684160
+    second: megamanhealthbar_3
+  - first:
+      213: 5657516118946672065
+    second: megamanhealthbar_4
+  - first:
+      213: 9065367931487912146
+    second: megamanhealthbar_5
+  - first:
+      213: 1850409273853454027
+    second: megamanhealthbar_6
+  - first:
+      213: 6387816869524094486
+    second: megamanhealthbar_7
+  - first:
+      213: -7896152422026205741
+    second: megamanhealthbar_8
+  - first:
+      213: -4040429740729461656
+    second: megamanhealthbar_9
+  - first:
+      213: 1402792214597674933
+    second: megamanhealthbar_10
+  - first:
+      213: -4804973842734596691
+    second: megamanhealthbar_11
+  - first:
+      213: 2417042141785228199
+    second: megamanhealthbar_12
+  - first:
+      213: 3776165735700740187
+    second: megamanhealthbar_13
+  - first:
+      213: -8878522941332194261
+    second: megamanhealthbar_14
+  - first:
+      213: -6226572003801856720
+    second: megamanhealthbar_15
+  - first:
+      213: 2192410113597200536
+    second: megamanhealthbar_16
+  - first:
+      213: 6162110145062964515
+    second: megamanhealthbar_17
+  - first:
+      213: 5377767166575460043
+    second: megamanhealthbar_18
+  - first:
+      213: -1412474992606846091
+    second: megamanhealthbar_19
+  - first:
+      213: -6267418205233111238
+    second: megamanhealthbar_20
+  - first:
+      213: 310005792296484499
+    second: megamanhealthbar_21
+  - first:
+      213: -3457943650778669062
+    second: megamanhealthbar_22
+  - first:
+      213: -5512197967171435399
+    second: megamanhealthbar_23
+  - first:
+      213: 3287439542316285679
+    second: megamanhealthbar_24
+  - first:
+      213: 5146822736488745038
+    second: megamanhealthbar_25
+  - first:
+      213: 4845601925480633181
+    second: megamanhealthbar_26
+  - first:
+      213: -778257106808817950
+    second: megamanhealthbar_27
+  - first:
+      213: -2149010707722449669
+    second: megamanhealthbar_28
+  - first:
+      213: 7465141141086367592
+    second: megamanhealthbar_29
+  - first:
+      213: 3867203642978438494
+    second: megamanhealthbar_30
+  - first:
+      213: -8012008528586586193
+    second: megamanhealthbar_31
+  - first:
+      213: 5220281515673224287
+    second: megamanhealthbar_32
+  - first:
+      213: 5344734705577079941
+    second: megamanhealthbar_33
+  - first:
+      213: 3994845702161659741
+    second: megamanhealthbar_34
+  - first:
+      213: -3745796656489741591
+    second: megamanhealthbar_35
+  - first:
+      213: 2679130839753340846
+    second: megamanhealthbar_36
+  - first:
+      213: -4732716566674969442
+    second: megamanhealthbar_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megamanhealthbar_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7def85e113ded874ead54e8d5a7b41be
+      internalID: -5471557289360738008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 76
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204c647fd10ae8499b6f0f142ec0a6c
+      internalID: 2404887676222359423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 75
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08679df7c25c84ba8c6d75a0969284
+      internalID: 8751709727003436293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 75
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081753a63f549c44588840552306df01
+      internalID: -227513141338684160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 76
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5183f43a04b6c458e48f26a08ced49
+      internalID: 5657516118946672065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 76
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1de9bc0cf4b4d48a137eb55ca951b6
+      internalID: 9065367931487912146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 75
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec3f4d74360f54caa0942adf237cc0
+      internalID: 1850409273853454027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 75
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155b4b5247bbdb4a9d6d8d430589768
+      internalID: 6387816869524094486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b0dbf5cfa76e459795cab11082cee
+      internalID: -7896152422026205741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77080532f82c9a646a21e65760aa5a90
+      internalID: -4040429740729461656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636e704b0ea88e418cecffd3ed223e8
+      internalID: 1402792214597674933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9aa52d94be7746b694fa99e1abe35
+      internalID: -4804973842734596691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05073734a6d80ae4a98560c6e623ff3f
+      internalID: 2417042141785228199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d56e1f205ca24428be93149fd83c36
+      internalID: 3776165735700740187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0da907e2cab7044ba803b0b18bf989
+      internalID: -8878522941332194261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557e5a3d32f75748a34de83addaaa01
+      internalID: -6226572003801856720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be20c58e4ff6d40af894a5f4ff0703
+      internalID: 2192410113597200536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093929934b5d3f6449a7911fa3d29a76
+      internalID: 6162110145062964515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72d3ba75e59f44da41a45ba751e47e
+      internalID: 5377767166575460043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa33b4502f2f944aec978167261bc3
+      internalID: -1412474992606846091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223cbd6aec0770b4c843cf915cd48752
+      internalID: -6267418205233111238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397ca6ea97fafe48a2967d3cee66cad
+      internalID: 310005792296484499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44fdc4ac3cf6de43bfdc23386bdd26d
+      internalID: -3457943650778669062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1676661c02f91e4f924d2c381c5fd8a
+      internalID: -5512197967171435399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a719690752520d40a92ec85cb8741b7
+      internalID: 3287439542316285679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c2b85168327a4f984b00d7aa70372
+      internalID: 5146822736488745038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cccf1855b902c47a7b394555d1d8e6
+      internalID: 4845601925480633181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325dde8bc65a8a04ba2b254ae6f77998
+      internalID: -778257106808817950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52deaf748ec4fb1489427b01bf15d306
+      internalID: -2149010707722449669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4b7c1d719ac3d4b80ab906b8d707fe
+      internalID: 7465141141086367592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2341ea58a614804fb841b7644645d60
+      internalID: 3867203642978438494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafec4aaa5429e14db78f572a85ff3c9
+      internalID: -8012008528586586193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186d172c0a05794382b3f0a4ed375ed
+      internalID: 5220281515673224287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_33
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c3b67a38c9375448ff5243ae73e49b
+      internalID: 5344734705577079941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc36fde38531b4081f0a2b10bfd9d3
+      internalID: 3994845702161659741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_35
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6461e0802c96a541835ae27e4be5508
+      internalID: -3745796656489741591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 25
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207c9a3348ac5b44bb1b9ffa381c1833
+      internalID: 2679130839753340846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamanhealthbar_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 25
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618fe1782d9a1649bce78083f9ff4b5
+      internalID: -4732716566674969442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34d0fafec2c598444b1e289a5f8e65f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

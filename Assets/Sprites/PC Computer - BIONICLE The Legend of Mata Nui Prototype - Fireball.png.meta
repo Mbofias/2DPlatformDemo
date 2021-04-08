@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 58b16a8e4f312b741a889bcb54bde154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4165036135766029406
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_0
+  - first:
+      213: 2703994063615045226
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_1
+  - first:
+      213: 1631094636774830659
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_2
+  - first:
+      213: 2880780667509000545
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_3
+  - first:
+      213: 7590837078624963024
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_4
+  - first:
+      213: -3986219856921127008
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_5
+  - first:
+      213: -2698119966757326951
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_6
+  - first:
+      213: 7044093121778478336
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_7
+  - first:
+      213: -6901025129806452471
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_8
+  - first:
+      213: -6310043726350260796
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_9
+  - first:
+      213: 5748205280034075691
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_10
+  - first:
+      213: -4768350274706567653
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_11
+  - first:
+      213: -2954554394120508407
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_12
+  - first:
+      213: -5034773294577989651
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_13
+  - first:
+      213: -699826230664487162
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_14
+  - first:
+      213: -6364641565666705289
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_15
+  - first:
+      213: -4920765307954899282
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_16
+  - first:
+      213: 5683078444203667397
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_17
+  - first:
+      213: -7320929318428043328
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_18
+  - first:
+      213: 168678348772393872
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_19
+  - first:
+      213: -3285532989321102204
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_20
+  - first:
+      213: 103840657288255457
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_21
+  - first:
+      213: -5316253682790280986
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_22
+  - first:
+      213: -5629022060752632275
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 416
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f1f8d742297094fb62bbf3afd173ff
+      internalID: 4165036135766029406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 420
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed3c034c9f7c94ca95903ca5cdc89d
+      internalID: 2703994063615045226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfcf53a04e28ca4fae8a8ca9e5b3fdd
+      internalID: 1631094636774830659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 417
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40c78c1d50b614cbfbac6f189e758a
+      internalID: 2880780667509000545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 415
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1bf3f74b211534483ecb3eee412b61
+      internalID: 7590837078624963024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 417
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046088a070cd7274aad546c70ce0ecb2
+      internalID: -3986219856921127008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 282
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6a33ba9d291540890ed18f218646c
+      internalID: -2698119966757326951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 283
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159fa90aef6c3646a258daba208edc2
+      internalID: 7044093121778478336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 284
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f30ef5b865b84b953d628afd58b54
+      internalID: -6901025129806452471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 283
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658411576009b2468500203902296f9
+      internalID: -6310043726350260796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 284
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3de14d1260c9b41a9ac87f24da662e
+      internalID: 5748205280034075691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 281
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffcf3c0178bb1341be3fd055a7eb142
+      internalID: -4768350274706567653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 150
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b72861cd6916264baa12c968f9936ca
+      internalID: -2954554394120508407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b4dd56f3a7f14591d89e862b4e97a
+      internalID: -5034773294577989651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 149
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168b3d03abaac174f893bbc1db7d6707
+      internalID: -699826230664487162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 151
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d999163215bb42949796284c5dff7
+      internalID: -6364641565666705289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 149
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a162289b681148a757901fc5e5da5
+      internalID: -4920765307954899282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_17
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 151
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b1ee04cd8011047817d1ce21aacaa7
+      internalID: 5683078444203667397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4be772b54b8e441a2de1813ac1ab3a
+      internalID: -7320929318428043328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54c24dc82f78b47b5e9cb005c5f96a
+      internalID: 168678348772393872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 18
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83637824de478c54ebf22a5acba48ca1
+      internalID: -3285532989321102204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 17
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dffc5a77b128704ba0f29d135e4980d
+      internalID: 103840657288255457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 19
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2fa416e92a3b64680e3223b86d55af
+      internalID: -5316253682790280986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Fireball_23
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 15
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f2860cb8f3ed4091b4454d9dab213
+      internalID: -5629022060752632275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4f6c7d48590c5994aa242af100da3f4f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

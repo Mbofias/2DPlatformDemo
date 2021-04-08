@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 316f79db8c6992847917a8f22263577e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5823821886163068688
+    second: BoosShoots_0
+  - first:
+      213: 7304330453370347858
+    second: BoosShoots_1
+  - first:
+      213: -8716403792027691093
+    second: BoosShoots_2
+  - first:
+      213: 8655654006620777643
+    second: BoosShoots_3
+  - first:
+      213: -8851114808264341311
+    second: BoosShoots_4
+  - first:
+      213: -5199950598981204438
+    second: BoosShoots_5
+  - first:
+      213: 814686746232555873
+    second: BoosShoots_6
+  - first:
+      213: -8271255262780811184
+    second: BoosShoots_7
+  - first:
+      213: 7797961647881997144
+    second: BoosShoots_8
+  - first:
+      213: -8195022376361178276
+    second: BoosShoots_9
+  - first:
+      213: 2699312135754650143
+    second: BoosShoots_10
+  - first:
+      213: 1064754892920917429
+    second: BoosShoots_11
+  - first:
+      213: -5128712677800850497
+    second: BoosShoots_12
+  - first:
+      213: 4041245860141492810
+    second: BoosShoots_13
+  - first:
+      213: -8795113915353080830
+    second: BoosShoots_14
+  - first:
+      213: 1768906303280088124
+    second: BoosShoots_15
+  - first:
+      213: 768265857470560297
+    second: BoosShoots_16
+  - first:
+      213: 5304437822293618951
+    second: BoosShoots_17
+  - first:
+      213: -6953807739309968548
+    second: BoosShoots_18
+  - first:
+      213: -2262565671713518860
+    second: BoosShoots_19
+  - first:
+      213: -3548175889900688662
+    second: BoosShoots_20
+  - first:
+      213: 4285713668777672979
+    second: BoosShoots_21
+  - first:
+      213: 4389796367736338659
+    second: BoosShoots_22
+  - first:
+      213: -2927884158220701367
+    second: BoosShoots_23
+  - first:
+      213: 4244978167403699930
+    second: BoosShoots_24
+  - first:
+      213: 208044851685781772
+    second: BoosShoots_25
+  - first:
+      213: 2492066144683980461
+    second: BoosShoots_26
+  - first:
+      213: 8412005220564474441
+    second: BoosShoots_27
+  - first:
+      213: -5857644861907265374
+    second: BoosShoots_28
+  - first:
+      213: -484814104147870945
+    second: BoosShoots_29
+  - first:
+      213: 9064714892189945005
+    second: BoosShoots_30
+  - first:
+      213: 684997945971365875
+    second: BoosShoots_31
+  - first:
+      213: -6565068871277068817
+    second: BoosShoots_32
+  - first:
+      213: 6250735455745795137
+    second: BoosShoots_33
+  - first:
+      213: -3734158075597069748
+    second: BoosShoots_34
+  - first:
+      213: 1112506230720515248
+    second: BoosShoots_35
+  - first:
+      213: 8358642331408713377
+    second: BoosShoots_36
+  - first:
+      213: 5228019539467638415
+    second: BoosShoots_37
+  - first:
+      213: 6893984352081710065
+    second: BoosShoots_38
+  - first:
+      213: -8295848347232621802
+    second: BoosShoots_39
+  - first:
+      213: -5916843826369217186
+    second: BoosShoots_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoosShoots_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 399
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb26e26e4ca114dacc805a14779b18
+      internalID: -5823821886163068688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 395
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa6d72eef2c6541af49fad3a5f8e70
+      internalID: 7304330453370347858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 397
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ceb42f86c076544aff360a8589754c
+      internalID: -8716403792027691093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 393
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1690b714cfc0ad4d93f89decf2b953d
+      internalID: 8655654006620777643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 394
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dddbaaa18635a44b635f5853b4d855
+      internalID: -8851114808264341311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bca9087158f1b4480cc42e4dde0885
+      internalID: -5199950598981204438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 390
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c024cdc32ffb5e438283d98dacefc13
+      internalID: 814686746232555873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 389
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc73a02327e5040adf1584695424e9
+      internalID: -8271255262780811184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 389
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080f88ac2b8c80459b3f64f9bc039ec
+      internalID: 7797961647881997144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 369
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e863224ff34d9ac4fa9ecec243664f2e
+      internalID: -8195022376361178276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 363
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd25c47a60745449b09a8bcf3f8b57
+      internalID: 2699312135754650143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 358
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a15d78619d1e48bbd0d8d5438c2c7
+      internalID: 1064754892920917429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 353
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69c8e02c1848f749a65e1371a9cb985
+      internalID: -5128712677800850497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 345
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34feb9cf159bc9e4c99f6f80094d3a00
+      internalID: 4041245860141492810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 347
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6581509593562e34090afb2482140fec
+      internalID: -8795113915353080830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 351
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974af2a5c83f1b44bbf76b3652508de
+      internalID: 1768906303280088124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 351
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9298256b19ba44488ea0c4bbf5fbdd7
+      internalID: 768265857470560297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 359
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe546e0f6b82149a6e6b2e022a2602
+      internalID: 5304437822293618951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 260
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455489f15f04bb47adb2a45235a183d
+      internalID: -6953807739309968548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 264
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a515be632d9bfb4fbc29eb5d1647194
+      internalID: -2262565671713518860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 266
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e1886bb90327b4cb1c1d2750b5c3fb
+      internalID: -3548175889900688662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 269
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e99d2e09325249a335763a998ef2b
+      internalID: 4285713668777672979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 271
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fcec3c68b22544915895218fa0bf5
+      internalID: 4389796367736338659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 265
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85522b21449010e4dbea39ae013fbc7f
+      internalID: -2927884158220701367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 264
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a94844a413834c878cb37bf1873b1
+      internalID: 4244978167403699930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 264
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a21f7c70db51c47bb27237d3fdddaf
+      internalID: 208044851685781772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b31673237260c4a8d013c2bc2a3147
+      internalID: 2492066144683980461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 147
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767245bb9bdec246bd97633bbc93e42
+      internalID: 8412005220564474441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 145
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84a09c8555bf7a4bb2ed479ac11c8ec
+      internalID: -5857644861907265374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 140
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072b6f26e967b4438273414d838d5a9
+      internalID: -484814104147870945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_30
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 139
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044fd8b1a42ff348ab98ecbbc7157f9
+      internalID: 9064714892189945005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 136
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216e14ab22a350478f0333d3eee0c62
+      internalID: 684997945971365875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_32
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 135
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44360583382d6174888756b41c90e7a4
+      internalID: -6565068871277068817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 136
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3b5f9768a7e146ae689d57de00cdf
+      internalID: 6250735455745795137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_34
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 135
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28695f2beb5b6a4e86ceae1291710ea
+      internalID: -3734158075597069748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 134
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f6e6a35694ece4cb784bd9fb03ea54
+      internalID: 1112506230720515248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_36
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 130
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d845e80815abe448d2c8588754f155
+      internalID: 8358642331408713377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_37
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 130
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0633e1138082ad4b8891af644a687aa
+      internalID: 5228019539467638415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 60
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1585b95263ff04bb27cc6dd9ae35c4
+      internalID: 6893984352081710065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 73
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e514f1b10d4364fb119e54a33f1332
+      internalID: -8295848347232621802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosShoots_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6948b63d7e21a4c905407e0fae50b5
+      internalID: -5916843826369217186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d70fc1c1a1d3e9449440093df4e06d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

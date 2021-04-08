@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480d2ec37e9372142aca7668a30e693e, type: 3}
+  m_Name: AerialSupportModel
+  m_EditorClassIdentifier: 
+  img: {fileID: -6024171001700625273, guid: 03ec29c962735e24da4de141bc3555b2, type: 3}
+  itemName: Aerial Support
+  description: Call for aerial support, WATCH OUT WITH EXPLOSIONS!
+  maxAmount: 1
+  duration: 10
+  cooldown: 25
+  damage: 20

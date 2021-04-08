@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 10ee91675ee96c1488a12f8feaf8fcb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5990799762481496216
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_0
+  - first:
+      213: 254232868325220788
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_1
+  - first:
+      213: 3494271684979516751
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_2
+  - first:
+      213: 8571952294052349184
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_3
+  - first:
+      213: 6997658738882082734
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_4
+  - first:
+      213: -7023955611856189390
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_5
+  - first:
+      213: 8449427235188004286
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_6
+  - first:
+      213: -5420690635670020965
+    second: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 834
+        width: 563
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e746d782430a4d99e4d09e9482f1b
+      internalID: -5990799762481496216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 834
+        width: 562
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1418dfa1af65a3742b6eab62c48475ae
+      internalID: 254232868325220788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_2
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 834
+        width: 563
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c11b776337e843ba172447880e1e2
+      internalID: 3494271684979516751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 431
+        width: 563
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c4180b64da4574c958e363665178ae
+      internalID: 8571952294052349184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 431
+        width: 562
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e373006132be4282a2490436a61f7
+      internalID: 6997658738882082734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 431
+        width: 563
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7e818d30eb3749a5fd2250bd661dd
+      internalID: -7023955611856189390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 28
+        width: 563
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82372723ef7bea941b9bf0bf9287d2fc
+      internalID: 8449427235188004286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1479410425_pixel_waterfall_bg__by_isohei-d4xntof_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 28
+        width: 562
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dedc820a5937194d99ca3cf2da48207
+      internalID: -5420690635670020965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4784a7c09566ba44cba6620dbca8fab6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

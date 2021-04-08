@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: c75fb6703df3b8c4d9287da704ac84d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -533740607834420631
+    second: MegamanXShootEffect_0
+  - first:
+      213: -3887739750178075127
+    second: MegamanXShootEffect_1
+  - first:
+      213: -8346687517244351701
+    second: MegamanXShootEffect_2
+  - first:
+      213: 7483353755616614594
+    second: MegamanXShootEffect_3
+  - first:
+      213: -3017520623963854156
+    second: MegamanXShootEffect_4
+  - first:
+      213: -133765818601469700
+    second: MegamanXShootEffect_5
+  - first:
+      213: -7787248573174857078
+    second: MegamanXShootEffect_6
+  - first:
+      213: -2071693150316006868
+    second: MegamanXShootEffect_7
+  - first:
+      213: -8871421706600537407
+    second: MegamanXShootEffect_8
+  - first:
+      213: 7286230159046755693
+    second: MegamanXShootEffect_9
+  - first:
+      213: -5178603245898837108
+    second: MegamanXShootEffect_10
+  - first:
+      213: -6427226546846077560
+    second: MegamanXShootEffect_11
+  - first:
+      213: 2414971401201676088
+    second: MegamanXShootEffect_12
+  - first:
+      213: 287045144570266466
+    second: MegamanXShootEffect_13
+  - first:
+      213: 8141080690558070276
+    second: MegamanXShootEffect_14
+  - first:
+      213: 7896544722841643968
+    second: MegamanXShootEffect_15
+  - first:
+      213: 5281228300214421458
+    second: MegamanXShootEffect_16
+  - first:
+      213: -3497549856255429242
+    second: MegamanXShootEffect_17
+  - first:
+      213: 5429798430333541072
+    second: MegamanXShootEffect_18
+  - first:
+      213: -8666590712355445704
+    second: MegamanXShootEffect_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegamanXShootEffect_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 126
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c582abe48d8af6149805be27559573e2
+      internalID: -533740607834420631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee53e051c7a554ebc4fd177acda8ab
+      internalID: -3887739750178075127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 117
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac827aa01781f84dad4097e916ce517
+      internalID: -8346687517244351701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122
+        width: 28
+        height: 12
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2151ce94d73146b4e7596adadb86c
+      internalID: 7483353755616614594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 125
+        width: 32
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d09c84e71ac142bff376c5b3988b6
+      internalID: -3017520623963854156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 123
+        width: 38
+        height: 12
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6603d93ed5770847b225842600f87ae
+      internalID: -133765818601469700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 122
+        width: 40
+        height: 19
+      alignment: 9
+      pivot: {x: 1, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2856d00e9c82074990a6cb783062a10
+      internalID: -7787248573174857078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 119
+        width: 36
+        height: 22
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d81f273f077d41bab217ffcb50c9e
+      internalID: -2071693150316006868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 59
+        height: 33
+      alignment: 9
+      pivot: {x: 1, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95f53443d989040b2f681ac2e5c581
+      internalID: -8871421706600537407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 1, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c003c62461d68a94c971ff543fc267fa
+      internalID: 7286230159046755693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 59
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6297e0ed84b8c494a8432df239582446
+      internalID: -5178603245898837108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 67
+        width: 48
+        height: 30
+      alignment: 9
+      pivot: {x: 1, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4da2bc94cb27479c469e03618a977
+      internalID: 2414971401201676088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 60
+        height: 33
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e59df74f972a884ebbf812e2ff8a254
+      internalID: 287045144570266466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 41
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69329910a0ee9ca489d8875e10a54e92
+      internalID: 5281228300214421458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 59
+        height: 37
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcaee3825d590346a14458b388f0da6
+      internalID: -3497549856255429242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanXShootEffect_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 46
+        height: 31
+      alignment: 9
+      pivot: {x: 1, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3dfdaf9299a5409f3672c34c4f69a
+      internalID: 5429798430333541072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2829ecfa9b8a9ea41ba30699c2a34bc0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
